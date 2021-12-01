@@ -8,12 +8,10 @@ input = readdlm("input/day1.txt", Int)[:, 1]
 sign = diff(input) .> 0
 
 # get all positive values
-print("Answer part 1: ")
-println(sum(sign))
+println("Answer part 1: ", sum(sign))
 
 # take rolling sum
 rolling_sum = rolling(sum, input, 3)
 
-# do the same as before
-print("Answer part 2: ")
-println(sum(diff(rolling_sum) .> 0))
+# idem as for part 1
+println("Answer part 2: ", sum(diff(rolling_sum) .> 0))
