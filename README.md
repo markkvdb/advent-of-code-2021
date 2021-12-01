@@ -2,13 +2,13 @@
 
 This repository contains solutions to the AoC 2021 challenge. The solutions are written in the Julia Programming Language.
 
-I'm new to Julia, so don't peek here for best practices :D.
+I'm new to Julia, so don't peek here for best practices 😙.
 
 ### Solutions
 
 The following challenges have been solved:
 
-- [ ] Day 1
+- [x] Day 1
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
