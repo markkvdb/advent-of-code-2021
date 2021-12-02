@@ -9,7 +9,7 @@ I'm new to Julia, so don't peek here for best practices 😙.
 The following challenges have been solved:
 
 - [x] Day 1
-- [ ] Day 2
+- [x] Day 2
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
